@@ -1,5 +1,5 @@
 {
-  "created": "2026-02-21T15:38:07.323539",
+  "created": "2026-02-22T01:12:23.483782",
   "description": "Lineage 2 CM Client Files Manifest",
   "excluded": [
     ".gitattributes",
@@ -11166,11 +11166,6 @@
       "modified": 1454904354.0,
       "size": 177956
     },
-    "manifest_generator.exe": {
-      "hash": "a7c0278b216d857a62a8af338455f18b",
-      "modified": 1771662353.2104669,
-      "size": 11061419
-    },
     "music/B01_F.ogg": {
       "hash": "d7ef5a8f5c8f7c956a60cad8794191ee",
       "modified": 1454904324.0,
@@ -13212,8 +13207,8 @@
       "size": 2224
     },
     "system/CheckGrp.log": {
-      "hash": "4c9281d2cd993c3ef373ac6dd7df8feb",
-      "modified": 1771607537.438961,
+      "hash": "885f91403a053c3fab5313481c2c7e11",
+      "modified": 1771700025.0443592,
       "size": 246
     },
     "system/ClassInfo-ru.dat": {
@@ -13403,7 +13398,7 @@
     },
     "system/L2CompiledShader.bin": {
       "hash": "24de6cbcf699597675f5ce3a875f55f8",
-      "modified": 1771607536.1632845,
+      "modified": 1771700023.78556,
       "size": 111190
     },
     "system/L2ForecF.ffe": {
@@ -13937,8 +13932,8 @@
       "size": 246
     },
     "system/l2Second.log": {
-      "hash": "4c9281d2cd993c3ef373ac6dd7df8feb",
-      "modified": 1771607537.4514885,
+      "hash": "885f91403a053c3fab5313481c2c7e11",
+      "modified": 1771700025.0443592,
       "size": 246
     },
     "system/largefont-e.gly": {
@@ -14252,7 +14247,7 @@
       "size": 47077
     }
   },
-  "total_files": 2849,
-  "total_size": 12915239017,
+  "total_files": 2848,
+  "total_size": 12904177598,
   "version": "1.0.0"
 }
