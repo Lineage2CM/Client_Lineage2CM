@@ -1,5 +1,5 @@
 {
-  "created": "2026-02-21T11:52:25.437212",
+  "created": "2026-02-21T15:38:07.323539",
   "description": "Lineage 2 CM Client Files Manifest",
   "excluded": [
     ".gitattributes",
@@ -5745,11 +5745,6 @@
       "hash": "bbeb19decbb7078b78caa0b764b60769",
       "modified": 1481309522.0,
       "size": 9520
-    },
-    "Screenshot/Shot00000.bmp": {
-      "hash": "e3fd5499e7b3e5e746c7113dd00a52c1",
-      "modified": 1642431181.5784454,
-      "size": 14210694
     },
     "Sounds/AmbSound.uax": {
       "hash": "18efc3c0e60de23573914466111b8488",
@@ -14257,7 +14252,7 @@
       "size": 47077
     }
   },
-  "total_files": 2850,
-  "total_size": 12929449711,
+  "total_files": 2849,
+  "total_size": 12915239017,
   "version": "1.0.0"
 }
