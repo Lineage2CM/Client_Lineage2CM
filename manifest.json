@@ -1,5 +1,5 @@
 {
-  "created": "2026-02-21T11:26:41.694725",
+  "created": "2026-02-21T11:52:25.437212",
   "description": "Lineage 2 CM Client Files Manifest",
   "excluded": [
     ".gitattributes",
@@ -13,6 +13,21 @@
     },
     "Animations/Avengers_FDarkElf_BatmanMask_m005.ukx": {
       "hash": "04aa8882025f8e1a070ba8d6550d050e",
+      "modified": 1481309646.0,
+      "size": 8271
+    },
+    "Animations/Avengers_FDwarf_BatmanMask_m005.ukx": {
+      "hash": "25e9491cff49f274206ebbadbeb19e8c",
+      "modified": 1481309646.0,
+      "size": 8269
+    },
+    "Animations/Avengers_FElf_BatmanMask_m005.ukx": {
+      "hash": "c9b735f2a99895710b17089c80f28cbb",
+      "modified": 1481309646.0,
+      "size": 8267
+    },
+    "Animations/Avengers_FFighter_BatmanMask_m005.ukx": {
+      "hash": "32b6d224633fd86d5ae5e97e757c7120",
       "modified": 1481309646.0,
       "size": 8271
     },
@@ -2471,6 +2486,1386 @@
       "modified": 1454904354.0,
       "size": 149445
     },
+    "L2text/br_eventfire_eva.htm": {
+      "hash": "7bd0d9c4fc14fa488247d70ea673276f",
+      "modified": 1454904922.0,
+      "size": 2908
+    },
+    "L2text/br_eventfire_help.htm": {
+      "hash": "2033c9677291c90276a4c45cab45f8fe",
+      "modified": 1454904922.0,
+      "size": 1652
+    },
+    "L2text/br_eventfire_item.htm": {
+      "hash": "080760848ad6b67b2e3a8263234a3051",
+      "modified": 1454904922.0,
+      "size": 568
+    },
+    "L2text/br_eventfire_letter.htm": {
+      "hash": "860ffcea0511a975e9cd815c3cd1325c",
+      "modified": 1454904922.0,
+      "size": 1840
+    },
+    "L2text/br_eventhalloween000.htm": {
+      "hash": "71eb7c2d594e56d4ef66f7b90fc11f2b",
+      "modified": 1454904922.0,
+      "size": 1394
+    },
+    "L2text/br_eventhalloween001.htm": {
+      "hash": "a83c92bc651ead8573a008cf5cafa9dd",
+      "modified": 1454904922.0,
+      "size": 1538
+    },
+    "L2text/br_eventhalloween002.htm": {
+      "hash": "f7fe34035308c53f56af5fa9c0014990",
+      "modified": 1454904922.0,
+      "size": 4754
+    },
+    "L2text/br_eventhalloween003.htm": {
+      "hash": "4ebee759f071e2373cbb89d3f7a1ab50",
+      "modified": 1454904922.0,
+      "size": 2024
+    },
+    "L2text/br_valen_2010_UI_drop000.htm": {
+      "hash": "7fc50c62ce315998c8453bb90be125f5",
+      "modified": 1454904922.0,
+      "size": 1744
+    },
+    "L2text/br_valen_2010_UI_help000.htm": {
+      "hash": "0160398a93ff22b1d90a307bf6fec5e3",
+      "modified": 1454904922.0,
+      "size": 1968
+    },
+    "L2text/br_valen_2010_UI_necklace000.htm": {
+      "hash": "ba734565826019636a26ef2eebc138fb",
+      "modified": 1454904922.0,
+      "size": 846
+    },
+    "L2text/br_xmas_2009_UI_reward000.htm": {
+      "hash": "fc4906765c8821f66d67440bfef64dd2",
+      "modified": 1454904922.0,
+      "size": 1466
+    },
+    "L2text/br_xmas_2009_UI_rudolf000.htm": {
+      "hash": "ce36f667a7ce36f228737490128d9ffb",
+      "modified": 1454904922.0,
+      "size": 1662
+    },
+    "L2text/br_xmas_2009_UI_santa000.htm": {
+      "hash": "4f11b594d819e6b6a7f5e907a2c7c7e1",
+      "modified": 1454904922.0,
+      "size": 1176
+    },
+    "L2text/credit_Art_01.htm": {
+      "hash": "6131c6f225f47c592d9d6e90e85d967f",
+      "modified": 1454904922.0,
+      "size": 2236
+    },
+    "L2text/credit_Art_02.htm": {
+      "hash": "3cceb0109585631371a4253af317b2f4",
+      "modified": 1454904922.0,
+      "size": 2472
+    },
+    "L2text/credit_Community_Marketing.htm": {
+      "hash": "e75a1a3ee4a458d40ff6546743fa119c",
+      "modified": 1454904922.0,
+      "size": 1800
+    },
+    "L2text/credit_Europe_05.htm": {
+      "hash": "d373fad654d3dd2281fc72a14c44cac6",
+      "modified": 1454904922.0,
+      "size": 1656
+    },
+    "L2text/credit_Europe_06.htm": {
+      "hash": "cb034ce1e9a87447caa4bee81f132779",
+      "modified": 1454904922.0,
+      "size": 3250
+    },
+    "L2text/credit_FQA.htm": {
+      "hash": "adef068d6e8466fe0f35da7bd2ee16aa",
+      "modified": 1454904922.0,
+      "size": 2750
+    },
+    "L2text/credit_GlobalDistributionBusiness.htm": {
+      "hash": "4d38446ee4581b52ccbf0a9643aa614a",
+      "modified": 1454904922.0,
+      "size": 1756
+    },
+    "L2text/credit_L2GlobalLiveGameDev.htm": {
+      "hash": "715e298fd33927c97c40bcfa2a3cc560",
+      "modified": 1454904922.0,
+      "size": 3590
+    },
+    "L2text/credit_OverseasSupport.htm": {
+      "hash": "c50c01f07051e219a508c264a7ce73e9",
+      "modified": 1454904922.0,
+      "size": 1636
+    },
+    "L2text/credit_RU_01.htm": {
+      "hash": "a3834cf40ecb9e88d019477b5fbb16a6",
+      "modified": 1454904922.0,
+      "size": 2184
+    },
+    "L2text/credit_RU_02.htm": {
+      "hash": "20ed1088a28564e3033f60b81a8c23e6",
+      "modified": 1454904922.0,
+      "size": 3542
+    },
+    "L2text/credit_RU_03.htm": {
+      "hash": "cf48a1a405cdfb6f915199b5e30b82ef",
+      "modified": 1454904922.0,
+      "size": 3318
+    },
+    "L2text/credit_RU_04.htm": {
+      "hash": "94e3066759d89bf4bbf8e3cf8c1041e2",
+      "modified": 1454904922.0,
+      "size": 3058
+    },
+    "L2text/credit_TQA_01.htm": {
+      "hash": "5c8e8c67ba5aedae158b1163aeae8ef4",
+      "modified": 1454904922.0,
+      "size": 2274
+    },
+    "L2text/credit_TQA_02.htm": {
+      "hash": "ad47c5081bc8bce21bbc91e3f05d0f17",
+      "modified": 1454904922.0,
+      "size": 2280
+    },
+    "L2text/credit_UI.htm": {
+      "hash": "d3ad62d079146c3e32ecf696fc749997",
+      "modified": 1454904922.0,
+      "size": 2278
+    },
+    "L2text/credit_US_06.htm": {
+      "hash": "617b3e6ab4a2bd270f296518249f9180",
+      "modified": 1454904922.0,
+      "size": 2292
+    },
+    "L2text/credit_US_07.htm": {
+      "hash": "5a7eaa2a7fa4476aafc9d3268062b0c7",
+      "modified": 1454904922.0,
+      "size": 2502
+    },
+    "L2text/credit_art_background_01.htm": {
+      "hash": "4ed39b4b93e34b7576d2d93e31cef634",
+      "modified": 1454904922.0,
+      "size": 2010
+    },
+    "L2text/credit_art_background_02.htm": {
+      "hash": "f3e6723c1e422d68a84d848038cc3f04",
+      "modified": 1454904922.0,
+      "size": 1814
+    },
+    "L2text/credit_art_background_03.htm": {
+      "hash": "a8384649b2523694ded416c136d7424e",
+      "modified": 1454904922.0,
+      "size": 1720
+    },
+    "L2text/credit_art_character_01.htm": {
+      "hash": "339f3b261abb6a60adc462c3a4342345",
+      "modified": 1454904922.0,
+      "size": 3068
+    },
+    "L2text/credit_art_character_02.htm": {
+      "hash": "cf58a21d0948c84cb678f2e952b03f7e",
+      "modified": 1454904922.0,
+      "size": 2268
+    },
+    "L2text/credit_art_character_03.htm": {
+      "hash": "3597ca68a624ebc6f34c719a7f6eefe0",
+      "modified": 1454904922.0,
+      "size": 1582
+    },
+    "L2text/credit_ceo.htm": {
+      "hash": "9f668cc3f94de86cd61ddf416db36400",
+      "modified": 1454904922.0,
+      "size": 1652
+    },
+    "L2text/credit_china_01.htm": {
+      "hash": "7af339c3de2e41f1d319c0a784172f77",
+      "modified": 1454904922.0,
+      "size": 1728
+    },
+    "L2text/credit_china_02.htm": {
+      "hash": "2a226d79e75106cbd530443172cee542",
+      "modified": 1454904922.0,
+      "size": 1884
+    },
+    "L2text/credit_china_03.htm": {
+      "hash": "4eaba2762845212ab6f5eb5b46f07e5b",
+      "modified": 1454904922.0,
+      "size": 2696
+    },
+    "L2text/credit_design.htm": {
+      "hash": "d91e8481477c2dcbc7a88fa699401711",
+      "modified": 1454904922.0,
+      "size": 1960
+    },
+    "L2text/credit_design_combat_01.htm": {
+      "hash": "1d8bd24eae8e16253713c44a734e337b",
+      "modified": 1454904922.0,
+      "size": 2280
+    },
+    "L2text/credit_design_level_01.htm": {
+      "hash": "a66518cff250d47555ec88796058c2c7",
+      "modified": 1454904922.0,
+      "size": 2070
+    },
+    "L2text/credit_design_level_02.htm": {
+      "hash": "5a1a53a084bfb5ffda42ec2a582ab9d4",
+      "modified": 1454904922.0,
+      "size": 1600
+    },
+    "L2text/credit_design_level_03.htm": {
+      "hash": "4f79d0fcb01c89aea8e4c8df38fb7ccf",
+      "modified": 1454904922.0,
+      "size": 1534
+    },
+    "L2text/credit_director.htm": {
+      "hash": "56a5992b7ae1c715b89a45805e461ba1",
+      "modified": 1454904922.0,
+      "size": 2202
+    },
+    "L2text/credit_europe_01.htm": {
+      "hash": "2c3e670289f78b3fec0bcd2e7c66cbb7",
+      "modified": 1454904922.0,
+      "size": 2644
+    },
+    "L2text/credit_europe_02.htm": {
+      "hash": "53793d6f798a55d82f2274f643817f84",
+      "modified": 1454904922.0,
+      "size": 2704
+    },
+    "L2text/credit_europe_03.htm": {
+      "hash": "b51d47252b129bd10a2e6ab65a394430",
+      "modified": 1454904922.0,
+      "size": 5172
+    },
+    "L2text/credit_europe_04.htm": {
+      "hash": "78142c09c9c698566b3b337a20592960",
+      "modified": 1454904922.0,
+      "size": 6680
+    },
+    "L2text/credit_gm_01.htm": {
+      "hash": "5d86fa5004769f8fa28e283ae197e312",
+      "modified": 1454904922.0,
+      "size": 1744
+    },
+    "L2text/credit_gm_02.htm": {
+      "hash": "28f7e61aa360fbc754daf4c66bdf6fe3",
+      "modified": 1454904922.0,
+      "size": 2368
+    },
+    "L2text/credit_id_01.htm": {
+      "hash": "e80c64ced1523fb905c3282c6aaf887f",
+      "modified": 1454904922.0,
+      "size": 1150
+    },
+    "L2text/credit_japan_01.htm": {
+      "hash": "4d9b1b4fdafb975ef0e4886bf3e37d36",
+      "modified": 1454904922.0,
+      "size": 3762
+    },
+    "L2text/credit_japan_02.htm": {
+      "hash": "90297191b18c651ca1c4bec238105eef",
+      "modified": 1454904922.0,
+      "size": 5022
+    },
+    "L2text/credit_japan_03.htm": {
+      "hash": "5e693f8df82b5a7d120078f4227ad091",
+      "modified": 1454904922.0,
+      "size": 3940
+    },
+    "L2text/credit_l2business.htm": {
+      "hash": "dbc2bd71b485fd8a0c3eec4077995757",
+      "modified": 1454904922.0,
+      "size": 2340
+    },
+    "L2text/credit_localization.htm": {
+      "hash": "b7e5e4078d49a7253eb93ecae5db3bf3",
+      "modified": 1454904922.0,
+      "size": 2730
+    },
+    "L2text/credit_programming_client_01.htm": {
+      "hash": "98ed2a47d2db9e9f9f7d53ddd3d3a488",
+      "modified": 1454904922.0,
+      "size": 2212
+    },
+    "L2text/credit_programming_server_01.htm": {
+      "hash": "96637ce7380d50529c9443c11836e465",
+      "modified": 1454904922.0,
+      "size": 2484
+    },
+    "L2text/credit_publish_01.htm": {
+      "hash": "970fc1b9f3ca2cc50ff69b8e29b6a850",
+      "modified": 1454904922.0,
+      "size": 1676
+    },
+    "L2text/credit_publish_02.htm": {
+      "hash": "dc25a7a7be80095573be2452968f71e6",
+      "modified": 1454904922.0,
+      "size": 4002
+    },
+    "L2text/credit_service_operation_01.htm": {
+      "hash": "741ed4028b4c7098debebdb5ef062492",
+      "modified": 1454904922.0,
+      "size": 2340
+    },
+    "L2text/credit_service_operation_02.htm": {
+      "hash": "a944e8d97f8d7e4749687cbee56b65da",
+      "modified": 1454904922.0,
+      "size": 2588
+    },
+    "L2text/credit_sound_01.htm": {
+      "hash": "d1a4c760765fdd8a3f202ac112823720",
+      "modified": 1454904922.0,
+      "size": 1162
+    },
+    "L2text/credit_sound_02.htm": {
+      "hash": "cb8cdecabed0a83ee5e8198b0e36473a",
+      "modified": 1454904922.0,
+      "size": 2530
+    },
+    "L2text/credit_specialthanks_01.htm": {
+      "hash": "f01ca6f474d2c688caf7ed62362e5595",
+      "modified": 1454904922.0,
+      "size": 1230
+    },
+    "L2text/credit_taiwan_01.htm": {
+      "hash": "dfd52f5d2a6e49054623dc6b3a9d6b09",
+      "modified": 1454904922.0,
+      "size": 3218
+    },
+    "L2text/credit_taiwan_02.htm": {
+      "hash": "b3048802d17be17e26461a9853883829",
+      "modified": 1454904922.0,
+      "size": 2900
+    },
+    "L2text/credit_thai_01.htm": {
+      "hash": "9d765b96bc7fa743e49426b3bd652af7",
+      "modified": 1454904922.0,
+      "size": 4308
+    },
+    "L2text/credit_thai_02.htm": {
+      "hash": "b2fd1fd00ca9f9e9ce6a46fe95e2137f",
+      "modified": 1454904922.0,
+      "size": 3086
+    },
+    "L2text/credit_thai_03.htm": {
+      "hash": "2c701a9f0ceacd528f05c4e25a5bff48",
+      "modified": 1454904922.0,
+      "size": 1946
+    },
+    "L2text/credit_us_01.htm": {
+      "hash": "3533e47770db90ff0a9cf6e435c4d5fe",
+      "modified": 1454904922.0,
+      "size": 3732
+    },
+    "L2text/credit_us_02.htm": {
+      "hash": "0f374143385eb3667787e6b8d6fa8180",
+      "modified": 1454904922.0,
+      "size": 3700
+    },
+    "L2text/credit_us_03.htm": {
+      "hash": "9248d605218157d91771221c960fa10f",
+      "modified": 1454904922.0,
+      "size": 4720
+    },
+    "L2text/credit_us_04.htm": {
+      "hash": "33cfae7020ad65e59e05c79a615cba5e",
+      "modified": 1454904922.0,
+      "size": 5938
+    },
+    "L2text/credit_us_05.htm": {
+      "hash": "ab3cad7b083157c7fcb47a7e17745b3f",
+      "modified": 1454904922.0,
+      "size": 4482
+    },
+    "L2text/event_2010_bless001.htm": {
+      "hash": "bc59e9ab6a4b248f4378e1ff3d68162c",
+      "modified": 1454904922.0,
+      "size": 6748
+    },
+    "L2text/help.htm": {
+      "hash": "617d7579a27708040fc6f0747c277abe",
+      "modified": 1454904922.0,
+      "size": 1456
+    },
+    "L2text/help_OTP.html": {
+      "hash": "aed545a3086591ab4f8e2c0975baf6b1",
+      "modified": 1454904922.0,
+      "size": 3966
+    },
+    "L2text/help_action.htm": {
+      "hash": "04c6f50de4544b6bb1427ae2dc61188c",
+      "modified": 1454904922.0,
+      "size": 984
+    },
+    "L2text/help_action_basic.htm": {
+      "hash": "e5d3345c1f2a7820fb9c2b2d4549065e",
+      "modified": 1454904922.0,
+      "size": 13200
+    },
+    "L2text/help_action_party.htm": {
+      "hash": "4ed59c1e40a04acf75207cd967caa7df",
+      "modified": 1454904922.0,
+      "size": 10212
+    },
+    "L2text/help_battle.htm": {
+      "hash": "22b72c36705d4c161e79075609a98c7f",
+      "modified": 1454904922.0,
+      "size": 1342
+    },
+    "L2text/help_battle_basic.htm": {
+      "hash": "1ac09935f39430d2844673d853fd4fd9",
+      "modified": 1454904922.0,
+      "size": 2484
+    },
+    "L2text/help_battle_death.htm": {
+      "hash": "3af3bd3609a279a8a44883ac41d0e0ce",
+      "modified": 1454904922.0,
+      "size": 2398
+    },
+    "L2text/help_battle_item.htm": {
+      "hash": "8c8cbb03aa1d4e8b581e18e02ee73ac7",
+      "modified": 1454904922.0,
+      "size": 2528
+    },
+    "L2text/help_battle_penalty.htm": {
+      "hash": "44d5a2cd7ed3097d183225a5d713d481",
+      "modified": 1454904922.0,
+      "size": 3512
+    },
+    "L2text/help_battle_pvp.htm": {
+      "hash": "88ba0627192927e5912eab0ca4bfea6a",
+      "modified": 1454904922.0,
+      "size": 5618
+    },
+    "L2text/help_battle_shot.htm": {
+      "hash": "54b125b030278438574b4e94472bcfc5",
+      "modified": 1454904922.0,
+      "size": 3226
+    },
+    "L2text/help_battle_skill.htm": {
+      "hash": "c8e3611828805ca4f9bf912edcd5e0a8",
+      "modified": 1454904922.0,
+      "size": 2192
+    },
+    "L2text/help_characterpassword00.htm": {
+      "hash": "c932529965b6a02219ed6f15666c366e",
+      "modified": 1454904922.0,
+      "size": 3104
+    },
+    "L2text/help_characterpassword01.htm": {
+      "hash": "5983b020d5c10875d81e7dd360c08807",
+      "modified": 1454904922.0,
+      "size": 1870
+    },
+    "L2text/help_characterpassword02.htm": {
+      "hash": "f06301b893d4959bbc59f4e3087031cf",
+      "modified": 1454904922.0,
+      "size": 2042
+    },
+    "L2text/help_characterpassword03.htm": {
+      "hash": "0add22a3df5552d24ee821c292855210",
+      "modified": 1454904922.0,
+      "size": 1576
+    },
+    "L2text/help_characterpassword04.htm": {
+      "hash": "adbb8bf773f8a60ab009cd6cbc287905",
+      "modified": 1454904922.0,
+      "size": 2078
+    },
+    "L2text/help_characterpassword05.htm": {
+      "hash": "bca82df69468bd50ce540dc937b5641c",
+      "modified": 1454904922.0,
+      "size": 1548
+    },
+    "L2text/help_characterpassword06.htm": {
+      "hash": "06fd6cc9f68d3f5b530f51bb60be3514",
+      "modified": 1454904922.0,
+      "size": 1442
+    },
+    "L2text/help_characterpassword07.htm": {
+      "hash": "4ea34fd72ec8abaffd714f3b2da90a93",
+      "modified": 1454904922.0,
+      "size": 1426
+    },
+    "L2text/help_characterpassword08.htm": {
+      "hash": "63e231702c61c7cde7368f7cafee7d7b",
+      "modified": 1454904922.0,
+      "size": 1272
+    },
+    "L2text/help_characterpassword09.htm": {
+      "hash": "bbded18ce28ebcc99149427d4da59a5d",
+      "modified": 1454904922.0,
+      "size": 1260
+    },
+    "L2text/help_clan.htm": {
+      "hash": "abeaf3935f032d0875d0c5709a0cc2ab",
+      "modified": 1454904922.0,
+      "size": 1976
+    },
+    "L2text/help_clan_academy.htm": {
+      "hash": "51ce0942dc450d63905bdbf667404dc5",
+      "modified": 1454904922.0,
+      "size": 8946
+    },
+    "L2text/help_clan_agit.htm": {
+      "hash": "5461e89412b1002a6381b2829f25f1c9",
+      "modified": 1454904922.0,
+      "size": 7242
+    },
+    "L2text/help_clan_interface.htm": {
+      "hash": "15365f0311f95fcfd8a877fa33ab886c",
+      "modified": 1454904922.0,
+      "size": 9220
+    },
+    "L2text/help_clan_knighthood.htm": {
+      "hash": "9d09a41b8f2f69da35f0d93cf56fbc9b",
+      "modified": 1454904922.0,
+      "size": 4738
+    },
+    "L2text/help_clan_namevalue.htm": {
+      "hash": "8cad33d5b350996d5c07d20459c0bd7c",
+      "modified": 1454904922.0,
+      "size": 6040
+    },
+    "L2text/help_clan_overview.htm": {
+      "hash": "d68cb36bc11d5cc8ec5cbc2597a68e33",
+      "modified": 1454904922.0,
+      "size": 4420
+    },
+    "L2text/help_clan_skill.htm": {
+      "hash": "502491c69e4f546f6c9588aa0caa6963",
+      "modified": 1454904922.0,
+      "size": 4312
+    },
+    "L2text/help_clan_socialclass.htm": {
+      "hash": "e67e4620cd7e6b98eb1665dce393aebd",
+      "modified": 1454904922.0,
+      "size": 6260
+    },
+    "L2text/help_clanwar.htm": {
+      "hash": "0db09da4074cec1d7917ebe995fe47c8",
+      "modified": 1454904922.0,
+      "size": 4174
+    },
+    "L2text/help_class.htm": {
+      "hash": "895c818c5585799524ca573594f677ee",
+      "modified": 1454904922.0,
+      "size": 1720
+    },
+    "L2text/help_class_darkelf.htm": {
+      "hash": "d9655694c30eb7bb7927699e1e28c113",
+      "modified": 1454904922.0,
+      "size": 3324
+    },
+    "L2text/help_class_dwarf.htm": {
+      "hash": "30462f6efba4772fdb9e3ff081c54f5e",
+      "modified": 1454904922.0,
+      "size": 2180
+    },
+    "L2text/help_class_elf.htm": {
+      "hash": "6040a9dabe39c68c8604bc14622e4084",
+      "modified": 1454904922.0,
+      "size": 3298
+    },
+    "L2text/help_class_human.htm": {
+      "hash": "abc86711256a4f4146714a0ccc9fa6f4",
+      "modified": 1454904922.0,
+      "size": 4024
+    },
+    "L2text/help_class_kamael.htm": {
+      "hash": "3fee9609725d3fe803a9adf279a92e43",
+      "modified": 1454904922.0,
+      "size": 2756
+    },
+    "L2text/help_class_orc.htm": {
+      "hash": "70f9e12c91ecc0943ab001a447e3ed3b",
+      "modified": 1454904922.0,
+      "size": 2570
+    },
+    "L2text/help_class_sub.htm": {
+      "hash": "a434ccbb2afa5e460cddc385a95597ab",
+      "modified": 1454904922.0,
+      "size": 4110
+    },
+    "L2text/help_commands.htm": {
+      "hash": "efb8b70032f676d182a1a16f7428393d",
+      "modified": 1454904922.0,
+      "size": 19846
+    },
+    "L2text/help_economy.htm": {
+      "hash": "df94ad4985385d4ddec6628d36c2082a",
+      "modified": 1454904922.0,
+      "size": 2042
+    },
+    "L2text/help_economy_fishing.htm": {
+      "hash": "ffcc1052a722906181ee6ab6c582dc6f",
+      "modified": 1454904922.0,
+      "size": 7454
+    },
+    "L2text/help_economy_make.htm": {
+      "hash": "2b7476fd78a4e5b031a3a5e4f25ecf78",
+      "modified": 1454904922.0,
+      "size": 3662
+    },
+    "L2text/help_economy_manor.htm": {
+      "hash": "f41fd4512ddb7216c2f4ae5fc49e6913",
+      "modified": 1454904922.0,
+      "size": 4426
+    },
+    "L2text/help_economy_merchant.htm": {
+      "hash": "176f2b2409529feef748a1f084392cbb",
+      "modified": 1454904922.0,
+      "size": 5038
+    },
+    "L2text/help_economy_post.htm": {
+      "hash": "09eb451213d6b1848917349ceea4e9a7",
+      "modified": 1454904922.0,
+      "size": 4806
+    },
+    "L2text/help_economy_rare.htm": {
+      "hash": "dd6ec9b04e09c323e59afeda374b8eaa",
+      "modified": 1454904922.0,
+      "size": 3232
+    },
+    "L2text/help_economy_shop.htm": {
+      "hash": "fc0438a97b7a2283df911c9877bdaa62",
+      "modified": 1454904922.0,
+      "size": 4446
+    },
+    "L2text/help_economy_trade.htm": {
+      "hash": "85ca1f7be5709ddf5f753be18ef15310",
+      "modified": 1454904922.0,
+      "size": 4182
+    },
+    "L2text/help_economy_warehouse.htm": {
+      "hash": "63aa2f433698b9fe52b8224c63cc8389",
+      "modified": 1454904922.0,
+      "size": 2330
+    },
+    "L2text/help_event_pcpoint.htm": {
+      "hash": "83ede24f81e7e5aae0fc37ab3a11af55",
+      "modified": 1454904922.0,
+      "size": 1134
+    },
+    "L2text/help_fishing.htm": {
+      "hash": "29efe55f5e6b12ce566356e704e80065",
+      "modified": 1454904922.0,
+      "size": 6296
+    },
+    "L2text/help_general.htm": {
+      "hash": "daaf135d9e5328f13e54034abdf13443",
+      "modified": 1454904922.0,
+      "size": 1990
+    },
+    "L2text/help_general_action.htm": {
+      "hash": "7fbe64abf38fcecb6acb4a6d946d5992",
+      "modified": 1454904922.0,
+      "size": 1328
+    },
+    "L2text/help_general_action_basic.htm": {
+      "hash": "7de5da0df160fa901ac59734d9f0367f",
+      "modified": 1454904922.0,
+      "size": 12912
+    },
+    "L2text/help_general_action_party.htm": {
+      "hash": "567fd7fe1b7b8f6de5e07aefd88ab4c5",
+      "modified": 1454904922.0,
+      "size": 10958
+    },
+    "L2text/help_general_basic.htm": {
+      "hash": "8f03fea8413110b45a717eb3c8ec21aa",
+      "modified": 1454904922.0,
+      "size": 5194
+    },
+    "L2text/help_general_battle.htm": {
+      "hash": "fd94b505079c9fb4e4fdce6de349798e",
+      "modified": 1454904922.0,
+      "size": 1016
+    },
+    "L2text/help_general_char.htm": {
+      "hash": "3a19ee419f0bad7102a9ddb10daeb711",
+      "modified": 1454904922.0,
+      "size": 2398
+    },
+    "L2text/help_general_chat.htm": {
+      "hash": "de5153631092fd9702b39bb79a5faf1f",
+      "modified": 1454904922.0,
+      "size": 7702
+    },
+    "L2text/help_general_community.htm": {
+      "hash": "10a1cbea354d8b200ea118691bab0dfc",
+      "modified": 1454904922.0,
+      "size": 6906
+    },
+    "L2text/help_general_control.htm": {
+      "hash": "b2bcb72130bebe1f464e86de08af0637",
+      "modified": 1454904922.0,
+      "size": 1448
+    },
+    "L2text/help_general_control_macro.htm": {
+      "hash": "6aee2e5059e4f99fbff1c79370ad6b22",
+      "modified": 1454904922.0,
+      "size": 2126
+    },
+    "L2text/help_general_control_macro_edit.htm": {
+      "hash": "62a1c875273a6bea37014f09602126da",
+      "modified": 1454904922.0,
+      "size": 5902
+    },
+    "L2text/help_general_control_macro_etc.htm": {
+      "hash": "6065ad4fad7015d1ce73fb26739292d2",
+      "modified": 1454904922.0,
+      "size": 3020
+    },
+    "L2text/help_general_control_macro_use.htm": {
+      "hash": "fd22808b892c634307b5811d0b48c56d",
+      "modified": 1454904922.0,
+      "size": 2946
+    },
+    "L2text/help_general_control_move.htm": {
+      "hash": "fea6d58472c6d2a6cc7f13618851c1e0",
+      "modified": 1454904922.0,
+      "size": 3060
+    },
+    "L2text/help_general_control_shotkey.htm": {
+      "hash": "6f09fa27455f1569863f2700232949cb",
+      "modified": 1454904922.0,
+      "size": 2946
+    },
+    "L2text/help_general_interface.htm": {
+      "hash": "8cf0acfb9e82661781069beb6da64a38",
+      "modified": 1454904922.0,
+      "size": 5486
+    },
+    "L2text/help_general_monster.htm": {
+      "hash": "5a0750cfe543f6a6b183382a8e883aaf",
+      "modified": 1454904922.0,
+      "size": 2906
+    },
+    "L2text/help_general_option.htm": {
+      "hash": "32c5f734ad5baf636cc10cc0fa4ccb12",
+      "modified": 1454904922.0,
+      "size": 1540
+    },
+    "L2text/help_general_option_audio.htm": {
+      "hash": "c92e4ddc79418534bf8b5c8bb04a8d42",
+      "modified": 1454904922.0,
+      "size": 6072
+    },
+    "L2text/help_general_option_game.htm": {
+      "hash": "c7e93c073a7af7bbbb9d0eb2ac46589b",
+      "modified": 1454904922.0,
+      "size": 5022
+    },
+    "L2text/help_general_option_key.htm": {
+      "hash": "683b31eedddc5aee75d400f34d7ae96a",
+      "modified": 1454904922.0,
+      "size": 1698
+    },
+    "L2text/help_general_option_video.htm": {
+      "hash": "28414c30c13d2a07ab9deea3abddc248",
+      "modified": 1454904922.0,
+      "size": 8508
+    },
+    "L2text/help_general_pet.htm": {
+      "hash": "da19843c716eed3c5a46895ad1b1408f",
+      "modified": 1454904922.0,
+      "size": 2720
+    },
+    "L2text/help_general_town.htm": {
+      "hash": "28e1a158b64e20585b687fea94a7a504",
+      "modified": 1454904922.0,
+      "size": 4184
+    },
+    "L2text/help_hero.htm": {
+      "hash": "9b89cdd65d1d594150a173e34391954d",
+      "modified": 1454904922.0,
+      "size": 3376
+    },
+    "L2text/help_item.htm": {
+      "hash": "ae506751473c649781d263f11232daf1",
+      "modified": 1454904922.0,
+      "size": 2792
+    },
+    "L2text/help_item_armor.htm": {
+      "hash": "302fbfd38feb5ca4ff0d0acda0ed9665",
+      "modified": 1454904922.0,
+      "size": 2526
+    },
+    "L2text/help_item_attribute.htm": {
+      "hash": "b94ec7360446a0e545761760c9a76ec6",
+      "modified": 1454904922.0,
+      "size": 2594
+    },
+    "L2text/help_item_basic.htm": {
+      "hash": "fb4f6aeb5155aa542656d41efde4fc95",
+      "modified": 1454904922.0,
+      "size": 3090
+    },
+    "L2text/help_item_cursedweapon1.htm": {
+      "hash": "ab71418c686efd228d92c42d9091c027",
+      "modified": 1454904922.0,
+      "size": 8654
+    },
+    "L2text/help_item_destroy.htm": {
+      "hash": "91f2ca431b38b2618ddb9a50cd54a015",
+      "modified": 1454904922.0,
+      "size": 2656
+    },
+    "L2text/help_item_dropitem.htm": {
+      "hash": "21e2675729af720e83765f596c2139c0",
+      "modified": 1454904922.0,
+      "size": 2410
+    },
+    "L2text/help_item_enchant.htm": {
+      "hash": "5b4e88237371281ac111dd36e904b134",
+      "modified": 1454904922.0,
+      "size": 2430
+    },
+    "L2text/help_item_grade.htm": {
+      "hash": "11db4b7be14f100d37542ab48742c5e5",
+      "modified": 1454904922.0,
+      "size": 4138
+    },
+    "L2text/help_item_refinery.htm": {
+      "hash": "1ed3c7e5a0df2f4262169a7ee322160f",
+      "modified": 1454904922.0,
+      "size": 3016
+    },
+    "L2text/help_item_sealed.htm": {
+      "hash": "b58426c7099be1aed8d740b8b094086a",
+      "modified": 1454904922.0,
+      "size": 2408
+    },
+    "L2text/help_item_shadow.htm": {
+      "hash": "b414d9ab2138042888067e1336c81d4d",
+      "modified": 1454904922.0,
+      "size": 1856
+    },
+    "L2text/help_item_shield.htm": {
+      "hash": "fd4b1eae02ea38d2eb1adbaabc98b2df",
+      "modified": 1454904922.0,
+      "size": 3910
+    },
+    "L2text/help_item_soul.htm": {
+      "hash": "06d76f9eb1038b7c601edb4f4819dcd0",
+      "modified": 1454904922.0,
+      "size": 2488
+    },
+    "L2text/help_item_symbol.htm": {
+      "hash": "e987fcbe10fc2c45a79040e8dfcec25c",
+      "modified": 1454904922.0,
+      "size": 2566
+    },
+    "L2text/help_item_weapon.htm": {
+      "hash": "22e5f05f8fb7eae219dc150c97aa5c19",
+      "modified": 1454904922.0,
+      "size": 5426
+    },
+    "L2text/help_macro.htm": {
+      "hash": "629e4c69092c4e6f1c24210c8ba4a63e",
+      "modified": 1454904922.0,
+      "size": 1278
+    },
+    "L2text/help_macro_caution.htm": {
+      "hash": "be5066b3b5647adf3af65f2268597700",
+      "modified": 1454904922.0,
+      "size": 2492
+    },
+    "L2text/help_macro_edit.htm": {
+      "hash": "87c644a5b713793f15cd8745d73f6f27",
+      "modified": 1454904922.0,
+      "size": 10394
+    },
+    "L2text/help_macro_manage.htm": {
+      "hash": "1de8d10184fa53a55b66bfe341b3e202",
+      "modified": 1454904922.0,
+      "size": 2342
+    },
+    "L2text/help_macro_use.htm": {
+      "hash": "663be4abe2b88727b1fb53d90532c1ef",
+      "modified": 1454904922.0,
+      "size": 2254
+    },
+    "L2text/help_option.htm": {
+      "hash": "7cdf56f6887489d674674e71c300708e",
+      "modified": 1454904922.0,
+      "size": 1116
+    },
+    "L2text/help_option_audio.htm": {
+      "hash": "d23b1da009f6dc0b926729a3e6d13712",
+      "modified": 1454904922.0,
+      "size": 2076
+    },
+    "L2text/help_option_game.htm": {
+      "hash": "0076cecc296fb16066d493b164920805",
+      "modified": 1454904922.0,
+      "size": 7614
+    },
+    "L2text/help_option_video.htm": {
+      "hash": "2145bcc4c36e075189dfa295583726b4",
+      "modified": 1454904922.0,
+      "size": 11660
+    },
+    "L2text/help_skill.htm": {
+      "hash": "f60c55a1c2543d0b57b9f4c83525a006",
+      "modified": 1454904922.0,
+      "size": 1194
+    },
+    "L2text/help_skill_enchant.htm": {
+      "hash": "1ec48a949ad8905ffc0c11619514b6da",
+      "modified": 1454904922.0,
+      "size": 3786
+    },
+    "L2text/help_skill_learn.htm": {
+      "hash": "6e2f62c3dd9f7834ef43517f10ed30fc",
+      "modified": 1454904922.0,
+      "size": 3190
+    },
+    "L2text/help_skill_use.htm": {
+      "hash": "7f50a2e921958469608ff6885588e144",
+      "modified": 1454904922.0,
+      "size": 4314
+    },
+    "L2text/help_ssq.htm": {
+      "hash": "660a4ea9dffc1c1fa1570ca813e9636f",
+      "modified": 1454904922.0,
+      "size": 1772
+    },
+    "L2text/help_ssq_compete.htm": {
+      "hash": "4b2727f5070c5aa1f637a808a8ccb0e6",
+      "modified": 1454904922.0,
+      "size": 10348
+    },
+    "L2text/help_ssq_dungeon.htm": {
+      "hash": "496c621247f6e59423913cb62e5307b3",
+      "modified": 1454904922.0,
+      "size": 9740
+    },
+    "L2text/help_ssq_etc.htm": {
+      "hash": "9c0046660484ebac46eaa328e68faf1a",
+      "modified": 1454904922.0,
+      "size": 3064
+    },
+    "L2text/help_ssq_finish.htm": {
+      "hash": "6189056fbb308d81a486e846bad70a6c",
+      "modified": 1454904922.0,
+      "size": 7074
+    },
+    "L2text/help_ssq_join.htm": {
+      "hash": "e711d18a6f83513dc557772631a3487b",
+      "modified": 1454904922.0,
+      "size": 5258
+    },
+    "L2text/help_ssq_overview.htm": {
+      "hash": "c1d340537f3a08ef9a3e0efef43ea633",
+      "modified": 1454904922.0,
+      "size": 2848
+    },
+    "L2text/help_ssq_seal.htm": {
+      "hash": "e42e8a401335991c82fcb3b7a83babab",
+      "modified": 1454904922.0,
+      "size": 7022
+    },
+    "L2text/help_war.htm": {
+      "hash": "886404fcba52fba882fe727312228ef3",
+      "modified": 1454904922.0,
+      "size": 1524
+    },
+    "L2text/help_war_dominion.htm": {
+      "hash": "9b38f9e33f0793775c756bb4404a0f7d",
+      "modified": 1454904922.0,
+      "size": 7802
+    },
+    "L2text/help_war_fortress.htm": {
+      "hash": "88fc6adb6bcffe97e9f35da43b00c4cd",
+      "modified": 1454904922.0,
+      "size": 5434
+    },
+    "L2text/help_war_olympiad.htm": {
+      "hash": "1d915e8b00ebad33b23fd483b2dbb957",
+      "modified": 1454904922.0,
+      "size": 4144
+    },
+    "L2text/help_war_siege.htm": {
+      "hash": "c4576e8ab1a8a9a2bc277e558ef1f271",
+      "modified": 1454904922.0,
+      "size": 6278
+    },
+    "L2text/help_war_sign.htm": {
+      "hash": "3db880f0a6bbf9f4c7ea346b94fb5064",
+      "modified": 1454904922.0,
+      "size": 2184
+    },
+    "L2text/help_war_sign_basic.htm": {
+      "hash": "e65e6f9f2804be8c0f1a4c4233ad250d",
+      "modified": 1454904922.0,
+      "size": 3598
+    },
+    "L2text/help_war_sign_dungeon.htm": {
+      "hash": "6d35dc18859525ec75253f90267a868b",
+      "modified": 1454904922.0,
+      "size": 8624
+    },
+    "L2text/help_war_sign_etc.htm": {
+      "hash": "97fa9206cfcf7e6e20ab8de922a4f7fd",
+      "modified": 1454904922.0,
+      "size": 3216
+    },
+    "L2text/help_war_sign_join.htm": {
+      "hash": "aaccd7c65189fe03286ce2d36995090d",
+      "modified": 1454904922.0,
+      "size": 4766
+    },
+    "L2text/help_war_sign_rivalry.htm": {
+      "hash": "bc1d5a5cf1580076844c81acfa49e72e",
+      "modified": 1454904922.0,
+      "size": 11220
+    },
+    "L2text/help_war_sign_sealing.htm": {
+      "hash": "6a247257989e4a96e086a22fba279a7f",
+      "modified": 1454904922.0,
+      "size": 7564
+    },
+    "L2text/help_war_sign_victory.htm": {
+      "hash": "a4d7289db658e5b963b08bdd729835d7",
+      "modified": 1454904922.0,
+      "size": 6168
+    },
+    "L2text/newpet_help_main.htm": {
+      "hash": "dc5640fa9f0607e3604af8c4fdbe94b1",
+      "modified": 1454904922.0,
+      "size": 1020
+    },
+    "L2text/pet_help_bug.htm": {
+      "hash": "eb53857cb8e196050d0dae7984641904",
+      "modified": 1454904922.0,
+      "size": 556
+    },
+    "L2text/pet_help_bug_1.htm": {
+      "hash": "a1ed39f68a1d3936d788150959e38756",
+      "modified": 1454904922.0,
+      "size": 1058
+    },
+    "L2text/pet_help_bug_2.htm": {
+      "hash": "230f69b3586f971791c962e5a38654ca",
+      "modified": 1454904922.0,
+      "size": 908
+    },
+    "L2text/pet_help_bug_3.htm": {
+      "hash": "ba9bc4962556eaa647e75301f090f3aa",
+      "modified": 1454904922.0,
+      "size": 1022
+    },
+    "L2text/pet_help_etc.htm": {
+      "hash": "a5ad33fe7c94d9e996f3f09d81fbf06a",
+      "modified": 1454904922.0,
+      "size": 504
+    },
+    "L2text/pet_help_etc_1.htm": {
+      "hash": "336faf45c4e348c8076e12e7d8ae9e6d",
+      "modified": 1454904922.0,
+      "size": 1026
+    },
+    "L2text/pet_help_etc_2.htm": {
+      "hash": "451ae19ed3301d0bdef3407cf90b7bb9",
+      "modified": 1454904922.0,
+      "size": 1036
+    },
+    "L2text/pet_help_etc_3.htm": {
+      "hash": "0ffdbb6070147043837a1b849efe537d",
+      "modified": 1454904922.0,
+      "size": 1002
+    },
+    "L2text/pet_help_game.htm": {
+      "hash": "17de85535b7c853872951098600f5d60",
+      "modified": 1454904922.0,
+      "size": 1712
+    },
+    "L2text/pet_help_game_1.htm": {
+      "hash": "b0abe82d67a65d090371d74a6ca50ec0",
+      "modified": 1454904922.0,
+      "size": 1232
+    },
+    "L2text/pet_help_game_10.htm": {
+      "hash": "b70b0bcfba22f6178fe3df2e09e732dc",
+      "modified": 1454904922.0,
+      "size": 936
+    },
+    "L2text/pet_help_game_11.htm": {
+      "hash": "4a99bca5b437d771b115071227524d3f",
+      "modified": 1454904922.0,
+      "size": 904
+    },
+    "L2text/pet_help_game_2.htm": {
+      "hash": "ee4eabafb63d28ff5f58ea796a4025eb",
+      "modified": 1454904922.0,
+      "size": 1114
+    },
+    "L2text/pet_help_game_3.htm": {
+      "hash": "09e0e099e8153b3abaa47927203a41c8",
+      "modified": 1454904922.0,
+      "size": 1256
+    },
+    "L2text/pet_help_game_4.htm": {
+      "hash": "74e1c353d88b88229778afc55e2dc7f7",
+      "modified": 1454904922.0,
+      "size": 1456
+    },
+    "L2text/pet_help_game_5.htm": {
+      "hash": "94b5d546cd2c088ba2d3d6cc7cf4c172",
+      "modified": 1454904922.0,
+      "size": 1200
+    },
+    "L2text/pet_help_game_6.htm": {
+      "hash": "ccb9a27faa654af2b60ecf9703bd0329",
+      "modified": 1454904922.0,
+      "size": 998
+    },
+    "L2text/pet_help_game_7.htm": {
+      "hash": "d2e5f1b299199cc15cf43f2956eeb643",
+      "modified": 1454904922.0,
+      "size": 1220
+    },
+    "L2text/pet_help_game_8.htm": {
+      "hash": "bd51f0bd70d812bef4efc6e11047f8c3",
+      "modified": 1454904922.0,
+      "size": 924
+    },
+    "L2text/pet_help_game_9.htm": {
+      "hash": "f21fb0d68eb24a87a1b57d9ce1b24156",
+      "modified": 1454904922.0,
+      "size": 1156
+    },
+    "L2text/pet_help_move.htm": {
+      "hash": "797b71811d663e4a0ba943d8f6cbc202",
+      "modified": 1454904922.0,
+      "size": 798
+    },
+    "L2text/pet_help_move_1.htm": {
+      "hash": "30e6e7ca0b3ed79ced5e983a03f72d22",
+      "modified": 1454904922.0,
+      "size": 1318
+    },
+    "L2text/pet_help_move_2.htm": {
+      "hash": "a9820e1deece895bfb42cae9dc70ad38",
+      "modified": 1454904922.0,
+      "size": 1392
+    },
+    "L2text/pet_help_move_3.htm": {
+      "hash": "ccca8ca8de34396e709404b76e11729e",
+      "modified": 1454904922.0,
+      "size": 1062
+    },
+    "L2text/pet_help_move_4.htm": {
+      "hash": "634dd68a8daa1992d3297a9bf5122e80",
+      "modified": 1454904922.0,
+      "size": 1106
+    },
+    "L2text/pet_help_oprn.htm": {
+      "hash": "938ef48bfdc45940c7b00edd0ee65f46",
+      "modified": 1454904922.0,
+      "size": 790
+    },
+    "L2text/pet_help_oprn_1.htm": {
+      "hash": "6e6066f51045c1e4601bb03be010e2f8",
+      "modified": 1454904922.0,
+      "size": 1498
+    },
+    "L2text/pet_help_oprn_2.htm": {
+      "hash": "16965d2b1bc8ea6efb6036fc70be66a2",
+      "modified": 1454904922.0,
+      "size": 1154
+    },
+    "L2text/pet_help_oprn_3.htm": {
+      "hash": "971b1c63d97f22133f93720edc2ff76e",
+      "modified": 1454904922.0,
+      "size": 840
+    },
+    "L2text/pet_help_oprn_4.htm": {
+      "hash": "252ebf6370dbd4a2bfdac905ff34ea1d",
+      "modified": 1454904922.0,
+      "size": 732
+    },
+    "L2text/pet_help_quest.htm": {
+      "hash": "c63645c67cc15d1ade948d1ef7cbd51b",
+      "modified": 1454904922.0,
+      "size": 888
+    },
+    "L2text/pet_help_quest_1.htm": {
+      "hash": "0e9eada8ba03b882fa7ccefbe3a268e0",
+      "modified": 1454904922.0,
+      "size": 1476
+    },
+    "L2text/pet_help_quest_2.htm": {
+      "hash": "55af4384f39c8930cadf9d0a8cd847b3",
+      "modified": 1454904922.0,
+      "size": 1488
+    },
+    "L2text/pet_help_quest_3.htm": {
+      "hash": "57f0517cac3f0fb6a7500c4184518824",
+      "modified": 1454904922.0,
+      "size": 824
+    },
+    "L2text/pet_help_quest_4.htm": {
+      "hash": "8ff66528bc654d52a5f2e491bf1055e8",
+      "modified": 1454904922.0,
+      "size": 1116
+    },
+    "L2text/pet_help_quest_5.htm": {
+      "hash": "ffc006a10f088556e8b7b11335aeb922",
+      "modified": 1454904922.0,
+      "size": 1480
+    },
+    "L2text/pet_help_recover.htm": {
+      "hash": "112e7d79b380183f25233ed0ff5c5666",
+      "modified": 1454904922.0,
+      "size": 826
+    },
+    "L2text/pet_help_recover_1.htm": {
+      "hash": "df1c12b65f1dbe8f2aa9d606a8c5c3b0",
+      "modified": 1454904922.0,
+      "size": 1056
+    },
+    "L2text/pet_help_recover_2.htm": {
+      "hash": "bea636a2095e1b7ca93bbff9b97da966",
+      "modified": 1454904922.0,
+      "size": 982
+    },
+    "L2text/pet_help_recover_3.htm": {
+      "hash": "0770b025adbf4c2ed46818ebafcd1ea9",
+      "modified": 1454904922.0,
+      "size": 1088
+    },
+    "L2text/pet_help_recover_4.htm": {
+      "hash": "8eeb3d483722a0014f78849f6273e77d",
+      "modified": 1454904922.0,
+      "size": 1324
+    },
+    "L2text/pet_help_recover_5.htm": {
+      "hash": "d118707acbd1692824b9f03cd5c39565",
+      "modified": 1454904922.0,
+      "size": 898
+    },
+    "L2text/pet_help_report.htm": {
+      "hash": "f76ab29323f2188a48023315f99e2f14",
+      "modified": 1454904922.0,
+      "size": 982
+    },
+    "L2text/pet_help_report_1.htm": {
+      "hash": "2b134b05ed9ff0ef7070f1053e2a3d82",
+      "modified": 1454904922.0,
+      "size": 2020
+    },
+    "L2text/pet_help_report_2.htm": {
+      "hash": "193f5e93704d40f9bc937e8fcbd68ffd",
+      "modified": 1454904922.0,
+      "size": 1504
+    },
+    "L2text/pet_help_report_3.htm": {
+      "hash": "510ce99bf5d1ac56a1a103a9c56cf529",
+      "modified": 1454904922.0,
+      "size": 702
+    },
+    "L2text/pet_help_report_4.htm": {
+      "hash": "7411a866b79360bb1e1273bd2574ff94",
+      "modified": 1454904922.0,
+      "size": 1578
+    },
+    "L2text/pet_help_report_5.htm": {
+      "hash": "29ca7fa91bda5e4d0c81db1d29b4c813",
+      "modified": 1454904922.0,
+      "size": 892
+    },
+    "L2text/pet_help_report_6.htm": {
+      "hash": "a23ba2899edc470d9a926a2d15def49d",
+      "modified": 1454904922.0,
+      "size": 1056
+    },
+    "L2text/pet_help_suggest.htm": {
+      "hash": "008c64fe262a7f41ef45a24b73b00ed1",
+      "modified": 1454904922.0,
+      "size": 260
+    },
+    "L2text/pet_help_suggest_1.htm": {
+      "hash": "aaf757cbc0f5ea0bd35aad236c67bb88",
+      "modified": 1454904922.0,
+      "size": 798
+    },
+    "L2text/product_inventory_help00.htm": {
+      "hash": "5fd0bdcebedfbad7962b9142293a9bf2",
+      "modified": 1454904922.0,
+      "size": 1586
+    },
+    "L2text/server_help.htm": {
+      "hash": "dd86090b34b914bcff9d9de038a66ac3",
+      "modified": 1454904922.0,
+      "size": 928
+    },
+    "L2text/server_help_1.htm": {
+      "hash": "f554093677bea0258d6a6090e072fdc4",
+      "modified": 1454904922.0,
+      "size": 2354
+    },
+    "L2text/server_help_2.htm": {
+      "hash": "1264c5e8699fd4a8e73827f5803eb681",
+      "modified": 1454904922.0,
+      "size": 3108
+    },
+    "L2text/server_help_3.htm": {
+      "hash": "b60ff1ddfa5d4729db97bab0c363a1ed",
+      "modified": 1454904922.0,
+      "size": 2400
+    },
+    "L2text/server_help_4.htm": {
+      "hash": "51bb5328b65bef200951700b9d75f1fb",
+      "modified": 1454904922.0,
+      "size": 1446
+    },
+    "L2text/server_help_5.htm": {
+      "hash": "8919924b4b5da8667aeccb31d9fae96d",
+      "modified": 1454904922.0,
+      "size": 1864
+    },
+    "L2text/server_help_6.htm": {
+      "hash": "461558b4476d7b6f59456a6a64fece71",
+      "modified": 1454904922.0,
+      "size": 2278
+    },
+    "L2text/skill_enchant_guide.htm": {
+      "hash": "f4d250a0f203598e61a30693ce3d4396",
+      "modified": 1454904922.0,
+      "size": 366
+    },
+    "L2text/skill_enchant_guide_1.htm": {
+      "hash": "5f3cbfd69e6fd864b458cad61e8f742b",
+      "modified": 1454904922.0,
+      "size": 673
+    },
+    "L2text/skill_enchant_guide_2.htm": {
+      "hash": "55e9fdba68c35c829923581d51aeecb4",
+      "modified": 1454904922.0,
+      "size": 1574
+    },
+    "L2text/skill_enchant_guide_3.htm": {
+      "hash": "35583f9a05684b035a7b87892bdc3732",
+      "modified": 1454904922.0,
+      "size": 1976
+    },
+    "L2text/skill_enchant_guide_4.htm": {
+      "hash": "1bc5a80377ea807853232c9162017478",
+      "modified": 1454904922.0,
+      "size": 1464
+    },
+    "L2text/skill_enchant_guide_5.htm": {
+      "hash": "8d9f7dec779df4cb23929ecb9c4d72fc",
+      "modified": 1454904922.0,
+      "size": 1852
+    },
     "MAPS/11_23.unr": {
       "hash": "0d71296c207fe373ad2541defd364431",
       "modified": 1454904312.0,
@@ -4350,6 +5745,11 @@
       "hash": "bbeb19decbb7078b78caa0b764b60769",
       "modified": 1481309522.0,
       "size": 9520
+    },
+    "Screenshot/Shot00000.bmp": {
+      "hash": "e3fd5499e7b3e5e746c7113dd00a52c1",
+      "modified": 1642431181.5784454,
+      "size": 14210694
     },
     "Sounds/AmbSound.uax": {
       "hash": "18efc3c0e60de23573914466111b8488",
@@ -12001,6 +13401,11 @@
       "modified": 1495956340.0,
       "size": 2213848
     },
+    "system/L2.exe": {
+      "hash": "c4dc0f0b14e83ba4745aa71c2e93aaed",
+      "modified": 1509935225.6942592,
+      "size": 432386
+    },
     "system/L2CompiledShader.bin": {
       "hash": "24de6cbcf699597675f5ce3a875f55f8",
       "modified": 1771607536.1632845,
@@ -12521,6 +13926,11 @@
       "modified": 1395763436.0,
       "size": 604592
     },
+    "system/l2.ini": {
+      "hash": "47471720acd904c7f819fa49b3a72b4c",
+      "modified": 1771616880.1648686,
+      "size": 4016
+    },
     "system/l2.int": {
       "hash": "f417c2983884adc5b8caa7edfce65053",
       "modified": 1509935209.789954,
@@ -12847,7 +14257,7 @@
       "size": 47077
     }
   },
-  "total_files": 2568,
-  "total_size": 12913929409,
+  "total_files": 2850,
+  "total_size": 12929449711,
   "version": "1.0.0"
 }
