@@ -1,5 +1,5 @@
 {
-  "created": "2026-02-22T03:36:09.248955",
+  "created": "2026-02-22T03:41:58.807502",
   "description": "Lineage 2 CM Client Files Manifest",
   "excluded": [
     ".gitattributes",
@@ -13912,8 +13912,8 @@
       "size": 604592
     },
     "system/l2.ini": {
-      "hash": "2df11879eae110313d416b094ab124c0",
-      "modified": 1771719017.4407103,
+      "hash": "7a76cf7eb44060429cea7bc77f2b345b",
+      "modified": 1771720904.1945746,
       "size": 4016
     },
     "system/l2.int": {
