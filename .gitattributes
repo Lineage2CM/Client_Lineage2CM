@@ -1,0 +1,2 @@
+*.ukx filter=lfs diff=lfs merge=lfs -text
+*.utx filter=lfs diff=lfs merge=lfs -text
