@@ -1,5 +1,5 @@
 {
-  "created": "2026-03-01T17:42:04.158154",
+  "created": "2026-03-01T17:50:53.976778",
   "description": "Lineage 2 CM Client Files Manifest",
   "excluded": [
     ".gitattributes",
@@ -4045,116 +4045,6 @@
       "hash": "64559829fd7bfbdbf906f0f3bcfcfd6d",
       "modified": 1454905288.0,
       "size": 2965642
-    },
-    "MAPS/15_21.unr": {
-      "hash": "797ba75c1dd92b8d3e0404499190b817",
-      "modified": 1454905052.0,
-      "size": 2966709
-    },
-    "MAPS/15_22.unr": {
-      "hash": "90116b51ed6a6fd9b38753e80757382b",
-      "modified": 1454904656.0,
-      "size": 3000693
-    },
-    "MAPS/16_19.unr": {
-      "hash": "f5ea5f3a47c2020f9ec53ce3261625ba",
-      "modified": 1454904722.0,
-      "size": 7328796
-    },
-    "MAPS/16_20.unr": {
-      "hash": "917213e70fd7c7bc3c6841537b23e7a0",
-      "modified": 1454904892.0,
-      "size": 5940513
-    },
-    "MAPS/16_21.unr": {
-      "hash": "30ae70e9e8509e64387b7d9fff28c626",
-      "modified": 1454904836.0,
-      "size": 3240517
-    },
-    "MAPS/16_22.unr": {
-      "hash": "f678676f04faa0f01148555a8ef5126c",
-      "modified": 1454905278.0,
-      "size": 2999556
-    },
-    "MAPS/16_23.unr": {
-      "hash": "7f3528f820254135391af2faa3e317b3",
-      "modified": 1454904922.0,
-      "size": 2999559
-    },
-    "MAPS/16_24.unr": {
-      "hash": "8c40928266de35479e7b46bb13cd71e5",
-      "modified": 1454904528.0,
-      "size": 3294404
-    },
-    "MAPS/16_25.unr": {
-      "hash": "74935196ab49210fd80a641cd21f012c",
-      "modified": 1454904632.0,
-      "size": 3805336
-    },
-    "MAPS/16_26.unr": {
-      "hash": "a642a6733001790ef7eba5d37a1d07b0",
-      "modified": 1454904414.0,
-      "size": 3000590
-    },
-    "MAPS/17_10.unr": {
-      "hash": "4546f52f37def35168761f413e922b37",
-      "modified": 1454905194.0,
-      "size": 5971440
-    },
-    "MAPS/17_11.unr": {
-      "hash": "aabab89355fb1e56f7eb487f36751964",
-      "modified": 1454905040.0,
-      "size": 4498369
-    },
-    "MAPS/17_12.unr": {
-      "hash": "27be810d51f079af614f7ce1bcebbc45",
-      "modified": 1454905270.0,
-      "size": 4464526
-    },
-    "MAPS/17_13.unr": {
-      "hash": "1e016dbfddf9d197fd5fea32628dcad2",
-      "modified": 1454904862.0,
-      "size": 3914045
-    },
-    "MAPS/17_14.unr": {
-      "hash": "2958aeaa0d54cf97af3bbe8147706b59",
-      "modified": 1454904746.0,
-      "size": 2965352
-    },
-    "MAPS/17_15.unr": {
-      "hash": "9f5b66edbca15608e3eda792cd3836b3",
-      "modified": 1454904798.0,
-      "size": 9873937
-    },
-    "MAPS/17_16.unr": {
-      "hash": "1712b5d26ca9a8b616fc10acc1f765b8",
-      "modified": 1454904896.0,
-      "size": 8325057
-    },
-    "MAPS/17_17.unr": {
-      "hash": "81fbdb8e9e3795076769dad371c0ea22",
-      "modified": 1454905184.0,
-      "size": 9553779
-    },
-    "MAPS/17_18.unr": {
-      "hash": "8c77cc31dc59c6d54cb378be241e7521",
-      "modified": 1486340799.394016,
-      "size": 6101203
-    },
-    "MAPS/17_19.unr": {
-      "hash": "dbe450fff54f068008680cf5e76a4663",
-      "modified": 1454904770.0,
-      "size": 5840090
-    },
-    "MAPS/17_20.unr": {
-      "hash": "79220e30f7a5389faf3e66ca74d5f449",
-      "modified": 1454904934.0,
-      "size": 8985666
-    },
-    "MAPS/17_21.unr": {
-      "hash": "40eeb446f74551c0a0889d6658821ced",
-      "modified": 1454904984.0,
-      "size": 10771239
     },
     "MAPS/17_22.unr": {
       "hash": "21d22f2535760c165d3d9e217e595f2d",
@@ -14212,7 +14102,7 @@
       "size": 9520
     }
   },
-  "total_files": 2841,
-  "total_size": 12758249786,
+  "total_files": 2819,
+  "total_size": 12638408410,
   "version": "1.0.0"
 }
